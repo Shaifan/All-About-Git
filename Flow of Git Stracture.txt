@@ -7,3 +7,14 @@ FOur Stage of Git
 
 When file is untracked, you have add the file to "Staged"
 Then "Commit" the file. If you want to edit the file then again unmodified later stage the file. 
+
+
+
+Commands
+--------------------------------
+
+1.Checkout: Get back deleted file (git checkout filename). To get numbers of files at a time (git checkout -f).
+
+2.touch: Create file use touch command (git touch filename).
+
+3.Log: To check how many commit done till.(git log) to check only last commit (git log -p -1)

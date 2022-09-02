@@ -20,3 +20,7 @@ Commands
 3.Log: To check how many commit done till.(git log) to check only last commit (git log -p -1)
 
 4.Commit: if you want to commit the code (git commit -m). Suppose if you want commit the code directly instead of adding staged then use this command(git commit -a -m).
+
+5.switch: git switch name (git checkout branch name)
+
+6.merge: (git merge branch name).

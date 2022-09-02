@@ -1,0 +1,9 @@
+FOur Stage of Git
+
+1.Untracked
+2.Unmodified
+3.Modified
+4.Staged
+
+When file is untracked, you have add the file to "Staged"
+Then "Commit" the file. If you want to edit the file then again unmodified later stage the file. 
